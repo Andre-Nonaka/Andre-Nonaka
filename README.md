@@ -8,8 +8,7 @@
 <p>Some areas of computer science and business that interest me include:</p>
 <ul>
 <li>Fintech</li>
-<li>Data science</li>
-<li>Product Management</li>
+<li>Product/Project Management</li>
 <li>Web Development</li>
 </ul>
 ⚡ Check out some of the projects I've worked on! ⚡
