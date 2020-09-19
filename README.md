@@ -10,6 +10,7 @@
 <li>Fintech</li>
 <li>Product/Project Management</li>
 <li>Web Development</li>
+ <li>Cybersecurity</li>
 </ul>
 ⚡ Check out some of the projects I've worked on! ⚡
 <p>Fun Fact: I've been playing competitive soccer for 12 years 🙂</p>
