@@ -7,7 +7,6 @@
 <p>I have previous work experience as an electronics intern in the Focused Ultrasound Lab at Sunnybrook Health Sciences Centre.</p>
 <p>Some areas of computer science and business that interest me include:</p>
 <ul>
-<li>Fintech</li>
 <li>Product/Project Management</li>
 <li>Web Development</li>
  <li>Cybersecurity</li>
