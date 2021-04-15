@@ -1,5 +1,5 @@
 # Hey there!
-<p>I'm <strong>Andre Nonaka</strong>, and I am a student at Carleton University studying computer science with a minor in business.</p>
+<p>I'm <strong>Andre Nonaka</strong>, and I am a student at Carleton University studying computer science with a minor in criminology.</p>
 <p>If you want to reach out or just have a chat. Please feel free to reach out to me.</p>
   
 # Work Experience and Interests!
